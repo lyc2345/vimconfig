@@ -10,6 +10,7 @@ neocomplete-swift-dictionary
 neocomplete.vim
 nerdtree
 powerline
+syntastic
 vim-airline-themes
 vim-bootstrap-updater
 vim-commentary
